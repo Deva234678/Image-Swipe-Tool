@@ -1,5 +1,0 @@
-Replace before and after image (same size is better).
-Open the HTML with Visual Studio code or other code editing app.
-Change image width and height in HTML part based on the input image.
-Save and Run it.
-before and after image should be send with HTML file.
