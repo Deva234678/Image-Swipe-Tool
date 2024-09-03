@@ -1,11 +1,4 @@
-# Before & After Image Slider with CSS
+# Swipe tool for Before & After image with HTML, CSS and Java Script.
 
-A before and after image slider with CSS, jQuery, and an input range slider.
+Swipe tool for  before and after  with an input range slider using HTML, CSS and Java Script.
 
-## Example screenshot:
-
-![Dump](https://github.com/orangeable/css-before-and-after-image-slider/blob/master/example.gif?raw=true)
-
-## Read my detailed article:
-
-[How to Create A Before & After Image Slider with CSS](https://orangeable.com/css/before-and-after-image-slider)
